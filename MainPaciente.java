@@ -17,7 +17,8 @@ class MainPaciente {    //Creo la clase
       Bruno.apellido = lastname;
       Bruno.nss = NSS;
       
-      Bruno.mostrarNombre();  //Mando a llamar a mis acciones
       Bruno.mostrarNSS();
+      Bruno.mostrarNombre();  //Mando a llamar a mis acciones
+
    }
 }
